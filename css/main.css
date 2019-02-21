@@ -50,7 +50,7 @@
 }
 
 body {
-  color: #777777;
+  color: #222222;
   font-family: "Poppins", sans-serif;
   font-size: 14px;
   font-weight: 300;
@@ -2264,6 +2264,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .banner-area {
   background: url(../img/header-bg.jpg) center;
   background-size: cover;
+  height: 550px; 
 }
 
 .banner-content {
